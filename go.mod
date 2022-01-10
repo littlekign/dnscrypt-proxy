@@ -17,7 +17,7 @@ require (
 	github.com/jedisct1/go-minisign v0.0.0-20210813171713-0b9bfaa3a6f6
 	github.com/jedisct1/xsecretbox v0.0.0-20210813171751-8f930e127d47
 	github.com/k-sone/critbitgo v1.4.0
-	github.com/kardianos/service v1.2.0
+	github.com/kardianos/service v1.2.1
 	github.com/miekg/dns v1.1.43
 	github.com/powerman/check v1.6.0
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
